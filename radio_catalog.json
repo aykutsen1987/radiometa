@@ -1603,7 +1603,8 @@
       "verified": false,
       "active": true,
       "lastVerified": "2026-09-12",
-      "warning": "Kullanıcı tarafından sağlanan dosyadan alınmıştır; RTÜK/TRT gibi resmi bir kaynaktan doğrulanamadı."
+      "warning": "Kullanıcı tarafından sağlanan dosyadan alınmıştır; RTÜK/TRT gibi resmi bir kaynaktan doğrulanamadı.",
+      "verificationNote": "kralmuzik.com.tr üzerinden RadioBrowser/dubbeh.net kaydında dygedge2.radyotvonline.net sunucusu teyit edildi — mevcut streamUrl ile eşleşiyor, AAC/HLS formatında çalışıyor görünüyor."
     },
     {
       "id": "unverified-upload-10-powerturk-i̇stanbul",
@@ -1621,7 +1622,8 @@
       "verified": false,
       "active": true,
       "lastVerified": "2026-09-12",
-      "warning": "Kullanıcı tarafından sağlanan dosyadan alınmıştır; RTÜK/TRT gibi resmi bir kaynaktan doğrulanamadı."
+      "warning": "Kullanıcı tarafından sağlanan dosyadan alınmıştır; RTÜK/TRT gibi resmi bir kaynaktan doğrulanamadı.",
+      "verificationNote": "listen.powerapp.com.tr sunucusu RadioBrowser kaydında teyit edildi — mevcut streamUrl ile aynı host, AAC formatında aktif görünüyor."
     },
     {
       "id": "unverified-upload-11-super-fm-i̇stanbul",
@@ -1650,7 +1652,7 @@
       "band": "FM",
       "category": "Nostalji",
       "logoUrl": "https://img.slowturk.com.tr/slowturk_logo.png",
-      "streamUrl": "https://radyo.duhnet.tv/slowturk"
+      "streamUrl": "https://radyo.duhnet.tv/slowturk",
       "websiteUrl": "",
       "sourceUrl": "kullanıcı tarafından yüklenen turkiye_radyolari_tam.json",
       "sourceType": "unverified",
