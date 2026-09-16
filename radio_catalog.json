@@ -159,14 +159,16 @@
       "band": "FM",
       "category": "Arabesk",
       "logoUrl": "http://askfm.com.tr/images/logo.png",
-      "streamUrl": "http://yayin.askfm.com.tr:8040/stream",
+      "streamUrl": "https://stream.netradyom.com/listen/askfm1/radio.mp3",
       "websiteUrl": "",
       "sourceUrl": "kullanıcı tarafından yüklenen turkiye_radyolari_tam.json",
       "sourceType": "unverified",
       "verified": false,
       "active": true,
-      "lastVerified": "2026-09-12",
-      "warning": "Kullanıcı tarafından sağlanan dosyadan alınmıştır; RTÜK/TRT gibi resmi bir kaynaktan doğrulanamadı."
+      "lastVerified": "2026-09-16",
+      "warning": "Kullanıcı tarafından sağlanan dosyadan alınmıştır; RTÜK/TRT gibi resmi bir kaynaktan doğrulanamadı.",
+      "backupStreamUrl": "http://yayin.askfm.com.tr:8040/stream",
+      "streamUrlSource": "Kullanıcının Chrome DevTools > Network sekmesinde ilgili sayfada çalarken doğrudan yakaladığı Request URL (izleme/oturum parametreleri temizlendi)."
     },
     {
       "id": "trt-nagme-ankara-merkez",
@@ -797,13 +799,15 @@
       "band": "FM",
       "category": "Pop",
       "logoUrl": "",
-      "streamUrl": "https://yayin.istanbulfm.com.tr/istanbulfm",
+      "streamUrl": "https://live.radyofenomen.com/istanbulfm/128/chunks.m3u8",
       "websiteUrl": "https://istanbulfm.com.tr",
       "sourceUrl": "https://istanbulfm.com.tr",
       "sourceType": "pdf+web",
       "verified": true,
       "active": true,
-      "lastVerified": "2026-09-15"
+      "lastVerified": "2026-09-16",
+      "backupStreamUrl": "https://yayin.istanbulfm.com.tr/istanbulfm",
+      "streamUrlSource": "Kullanıcının Chrome DevTools > Network sekmesinde ilgili sayfada çalarken doğrudan yakaladığı Request URL (izleme/oturum parametreleri temizlendi)."
     },
     {
       "id": "joy-turk-istanbul",
@@ -814,13 +818,15 @@
       "band": "FM",
       "category": "Türkçe Pop",
       "logoUrl": "",
-      "streamUrl": "https://17773.live.streamtheworld.com/JOY_TURKAAC.aac",
+      "streamUrl": "https://25453.live.streamtheworld.com/JOY_TURK128AAC_SBM",
       "websiteUrl": "https://joyturk.com.tr",
       "sourceUrl": "https://joyturk.com.tr",
       "sourceType": "pdf+web",
       "verified": true,
       "active": true,
-      "lastVerified": "2026-09-15"
+      "lastVerified": "2026-09-16",
+      "backupStreamUrl": "https://17773.live.streamtheworld.com/JOY_TURKAAC.aac",
+      "streamUrlSource": "Kullanıcının Chrome DevTools > Network sekmesinde ilgili sayfada çalarken doğrudan yakaladığı Request URL (izleme/oturum parametreleri temizlendi)."
     },
     {
       "id": "kafa-radyo-istanbul",
@@ -865,14 +871,16 @@
       "band": "FM",
       "category": "Pop",
       "logoUrl": "",
-      "streamUrl": "http://www.adafm.net:6262/",
+      "streamUrl": "https://yayin.webfirmam.com/adafm.mp3",
       "websiteUrl": "",
       "sourceUrl": "https://github.com/yunusdgntr/radio-online-json-url/blob/master/Turkey.json",
       "sourceType": "unverified",
       "verified": false,
       "active": true,
-      "lastVerified": "2026-09-12",
-      "warning": "GitHub üzerindeki bir topluluk radyo-akış listesinden (radio-online-json-url) alınmıştır. Bu repo yalnızca stream URL toplamak amaçlı; frekans bilgisi başlıkta yer alan serbest metinden çıkarılmıştır, RTÜK/TRT gibi resmi bir kaynakla doğrulanmadı ve yanlış/eski olabilir."
+      "lastVerified": "2026-09-16",
+      "warning": "GitHub üzerindeki bir topluluk radyo-akış listesinden (radio-online-json-url) alınmıştır. Bu repo yalnızca stream URL toplamak amaçlı; frekans bilgisi başlıkta yer alan serbest metinden çıkarılmıştır, RTÜK/TRT gibi resmi bir kaynakla doğrulanmadı ve yanlış/eski olabilir.",
+      "backupStreamUrl": "http://www.adafm.net:6262/",
+      "streamUrlSource": "Kullanıcının Chrome DevTools > Network sekmesinde ilgili sayfada çalarken doğrudan yakaladığı Request URL (izleme/oturum parametreleri temizlendi)."
     },
     {
       "id": "kiss-fm-istanbul",
@@ -883,13 +891,15 @@
       "band": "FM",
       "category": "Yabancı",
       "logoUrl": "",
-      "streamUrl": "https://17733.live.streamtheworld.com/KISS_FM128AAC.aac",
+      "streamUrl": "https://kiss.radyotvonline.net/kissfm",
       "websiteUrl": "https://kissfm.com.tr",
       "sourceUrl": "https://kissfm.com.tr",
       "sourceType": "pdf+web",
       "verified": true,
       "active": true,
-      "lastVerified": "2026-09-15"
+      "lastVerified": "2026-09-16",
+      "backupStreamUrl": "https://17733.live.streamtheworld.com/KISS_FM128AAC.aac",
+      "streamUrlSource": "Kullanıcının Chrome DevTools > Network sekmesinde ilgili sayfada çalarken doğrudan yakaladığı Request URL (izleme/oturum parametreleri temizlendi)."
     },
     {
       "id": "super-fm-istanbul",
@@ -1156,13 +1166,15 @@
       "band": "FM",
       "category": "Pop",
       "logoUrl": "",
-      "streamUrl": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8",
+      "streamUrl": "https://number1.radyotvonline.net/hls/play/number1_fm.m3u8",
       "websiteUrl": "https://number1.com.tr",
       "sourceUrl": "https://number1.com.tr",
       "sourceType": "pdf+web",
       "verified": true,
       "active": true,
-      "lastVerified": "2026-09-15"
+      "lastVerified": "2026-09-16",
+      "backupStreamUrl": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8",
+      "streamUrlSource": "Kullanıcının Chrome DevTools > Network sekmesinde ilgili sayfada çalarken doğrudan yakaladığı Request URL (izleme/oturum parametreleri temizlendi)."
     },
     {
       "id": "ntv-radyo-istanbul",
@@ -1210,14 +1222,16 @@
       "band": "FM",
       "category": "Türkçe Pop",
       "logoUrl": "",
-      "streamUrl": null,
+      "streamUrl": "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8",
       "websiteUrl": "https://radyod.com/frekans",
       "sourceUrl": "https://radyod.com/frekans",
       "sourceType": "pdf+web",
       "verified": false,
       "active": false,
-      "lastVerified": "2026-09-15",
-      "verificationNote": "PDF kaydında doğrudan yayın URL’si bulunamadı; frekans kaydı korunmuştur."
+      "lastVerified": "2026-09-16",
+      "verificationNote": "PDF kaydında doğrudan yayın URL’si bulunamadı; frekans kaydı korunmuştur.",
+      "backupStreamUrl": null,
+      "streamUrlSource": "Kullanıcının Chrome DevTools > Network sekmesinde ilgili sayfada çalarken doğrudan yakaladığı Request URL (izleme/oturum parametreleri temizlendi)."
     },
     {
       "id": "radyo-trafik-istanbul",
@@ -1264,13 +1278,15 @@
       "band": "FM",
       "category": "Yabancı",
       "logoUrl": "",
-      "streamUrl": "https://17773.live.streamtheworld.com/VIRGIN_RADIO.mp3",
+      "streamUrl": "https://19983.live.streamtheworld.com/VIRGIN_RADIO128AAC.aac",
       "websiteUrl": "https://virginradioturkiye.com",
       "sourceUrl": "https://virginradioturkiye.com",
       "sourceType": "pdf+web",
       "verified": true,
       "active": true,
-      "lastVerified": "2026-09-15"
+      "lastVerified": "2026-09-16",
+      "backupStreamUrl": "https://17773.live.streamtheworld.com/VIRGIN_RADIO.mp3",
+      "streamUrlSource": "Kullanıcının Chrome DevTools > Network sekmesinde ilgili sayfada çalarken doğrudan yakaladığı Request URL (izleme/oturum parametreleri temizlendi)."
     },
     {
       "id": "radyo-voyage-istanbul",
@@ -1315,13 +1331,15 @@
       "band": "FM",
       "category": "Haber",
       "logoUrl": "",
-      "streamUrl": "https://cdn.duhnet.tv/S2/HLS_LIVE/cnnradyo/index.m3u8",
+      "streamUrl": "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8",
       "websiteUrl": "https://www.cnnturk.com/radyo",
       "sourceUrl": "https://www.cnnturk.com/radyo",
       "sourceType": "pdf+web",
       "verified": true,
       "active": true,
-      "lastVerified": "2026-09-15"
+      "lastVerified": "2026-09-16",
+      "backupStreamUrl": "https://cdn.duhnet.tv/S2/HLS_LIVE/cnnradyo/index.m3u8",
+      "streamUrlSource": "Kullanıcının Chrome DevTools > Network sekmesinde ilgili sayfada çalarken doğrudan yakaladığı Request URL (izleme/oturum parametreleri temizlendi)."
     },
     {
       "id": "damar-turk-fm-istanbul",
@@ -1366,13 +1384,15 @@
       "band": "FM",
       "category": "Yabancı",
       "logoUrl": "",
-      "streamUrl": "https://17753.live.streamtheworld.com/JOY_FMAAC.aac",
+      "streamUrl": "https://21633.live.streamtheworld.com/JOY_FM128AAC.aac",
       "websiteUrl": "https://joyfm.com.tr",
       "sourceUrl": "https://joyfm.com.tr",
       "sourceType": "pdf+web",
       "verified": true,
       "active": true,
-      "lastVerified": "2026-09-15"
+      "lastVerified": "2026-09-16",
+      "backupStreamUrl": "https://17753.live.streamtheworld.com/JOY_FMAAC.aac",
+      "streamUrlSource": "Kullanıcının Chrome DevTools > Network sekmesinde ilgili sayfada çalarken doğrudan yakaladığı Request URL (izleme/oturum parametreleri temizlendi)."
     },
     {
       "id": "karadeniz-fm-istanbul",
@@ -1417,13 +1437,15 @@
       "band": "FM",
       "category": "Spor",
       "logoUrl": "",
-      "streamUrl": "https://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/playlist.m3u8",
+      "streamUrl": "https://ligradyo.radyotvonline.net/ligradyo",
       "websiteUrl": "https://ligradyo.com.tr",
       "sourceUrl": "https://ligradyo.com.tr",
       "sourceType": "pdf+web",
       "verified": true,
       "active": true,
-      "lastVerified": "2026-09-15"
+      "lastVerified": "2026-09-16",
+      "backupStreamUrl": "https://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/playlist.m3u8",
+      "streamUrlSource": "Kullanıcının Chrome DevTools > Network sekmesinde ilgili sayfada çalarken doğrudan yakaladığı Request URL (izleme/oturum parametreleri temizlendi)."
     },
     {
       "id": "number1-turk-istanbul",
@@ -1434,13 +1456,15 @@
       "band": "FM",
       "category": "Türkçe Pop",
       "logoUrl": "",
-      "streamUrl": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e30cf8d28e_1/playlist.m3u8",
+      "streamUrl": "https://ssldyg2.radyotvonline.com/live/numberoneturk.stream/chunklist_w350101748.m3u8",
       "websiteUrl": "https://number1turk.com.tr",
       "sourceUrl": "https://number1turk.com.tr",
       "sourceType": "pdf+web",
       "verified": true,
       "active": true,
-      "lastVerified": "2026-09-15"
+      "lastVerified": "2026-09-16",
+      "backupStreamUrl": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e30cf8d28e_1/playlist.m3u8",
+      "streamUrlSource": "Kullanıcının Chrome DevTools > Network sekmesinde ilgili sayfada çalarken doğrudan yakaladığı Request URL (izleme/oturum parametreleri temizlendi). Bu bir 'chunklist' (belirli bitrate varyantı) adresi; master.m3u8 değil, zamanla değişebilir."
     },
     {
       "id": "pal-fm-istanbul",
@@ -1502,13 +1526,15 @@
       "band": "FM",
       "category": "Karışık",
       "logoUrl": "",
-      "streamUrl": "https://ssl4.radyotvonline.com/radyo7/radyo7_home.stream/playlist.m3u8",
+      "streamUrl": "https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8",
       "websiteUrl": "https://radyo7.com.tr",
       "sourceUrl": "https://radyo7.com.tr",
       "sourceType": "pdf+web",
       "verified": true,
       "active": true,
-      "lastVerified": "2026-09-15"
+      "lastVerified": "2026-09-16",
+      "backupStreamUrl": "https://ssl4.radyotvonline.com/radyo7/radyo7_home.stream/playlist.m3u8",
+      "streamUrlSource": "Kullanıcının Chrome DevTools > Network sekmesinde ilgili sayfada çalarken doğrudan yakaladığı Request URL (izleme/oturum parametreleri temizlendi)."
     },
     {
       "id": "radyo-viva-istanbul",
